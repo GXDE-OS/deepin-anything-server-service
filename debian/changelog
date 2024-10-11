@@ -1,0 +1,6 @@
+deepin-anything-server-service (1.0) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- shenmo <shenmo@spark-app.store>  Fri, 11 Oct 2024 19:53:07 +0800
