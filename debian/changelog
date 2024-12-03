@@ -1,6 +1,5 @@
-deepin-anything-server-service (1.0.1-2) UNRELEASED; urgency=low
+deepin-anything-server-service (1.1.0) UNRELEASED; urgency=low
 
-  * Initial release. Closes: #nnnn
-    <nnnn is the bug number of your ITP>
+  * Support systemd and gxde-k9
 
  -- shenmo <shenmo@spark-app.store>  Fri, 11 Oct 2024 19:53:07 +0800
