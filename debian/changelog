@@ -1,4 +1,4 @@
-deepin-anything-server-service (1.1.0) UNRELEASED; urgency=low
+deepin-anything-server-service (1.1.1) UNRELEASED; urgency=low
 
   * Support systemd and gxde-k9
 
