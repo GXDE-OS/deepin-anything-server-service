@@ -1,5 +1,6 @@
-deepin-anything-server-service (1.1.1) UNRELEASED; urgency=low
+deepin-anything-server-service (1.1.2) UNRELEASED; urgency=low
 
   * Support systemd and gxde-k9
+  * Enable service after install
 
  -- shenmo <shenmo@spark-app.store>  Fri, 11 Oct 2024 19:53:07 +0800
