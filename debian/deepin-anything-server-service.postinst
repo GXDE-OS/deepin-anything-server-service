@@ -1,4 +1,5 @@
 #!/bin/bash
 set -x
 modprobe vfs_monitor || true
+systemctl enable deepin-anything-server.service || true
 systemctl start deepin-anything-server || true
